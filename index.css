@@ -1,0 +1,19 @@
+
+.test {
+    width: 97%;
+    height: 500px;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("https://download.unsplash.com/photo-1428604467652-115d9d71a7f1");
+    position: relative;
+    margin: 0 auto;
+}
+
+.test p {
+    font-size: 23px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    position: absolute;
+    top: 230px;
+    left: 30%;
+}
